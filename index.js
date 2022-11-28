@@ -269,3 +269,5 @@ const person = family.some((year) => 2022 - year);
 
 const checkFirstLetter = family.every((letter) => letter.name[0] === "L");
 ////console.log(checkFirstLetter);
+
+14;
